@@ -29,7 +29,7 @@ To get a local copy up and running, follow these simple steps:
 ```bash
 
 
- git clone https://github.com/SachinYadav666/my_portfolio
+ git clone [https://github.com/vivek-singh126/-My_Portfolio]
 cd portfolio
 npm install
 npm start
@@ -61,5 +61,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Name - Sachin Yadav
-website Link: https://sachin-portfolio-main-eta.vercel.app
+Name - vivek kumar singh
+
